@@ -1,34 +1,12 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
-sites:
-  - name: 1
+owner: melodyover # GitHub username
+repo: webloading # GitHub repository name
+sites: # List of endpoints to track
+  - name: s1
     url: http://ice.serv00.net/
-  - name: 2
+  - name: s2
     url: http://melodyover.serv00.net/
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
-status-website:
+assignees: # Users to assign downtime issues (optional)
+  - AnandChowdhary
+status-website: # Status website (optional)
   baseUrl: /webloading
-  name: Your Status Website
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: Upptime # Status website title
