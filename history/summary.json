@@ -22,19 +22,19 @@
     "url": "http://melodyover.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/melodyover.serv00.net.ico",
     "slug": "s2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 577,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 546,
+    "timeDay": 643,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-12-18": 0
+      "2024-12-18": 16
     }
   }
 ]
