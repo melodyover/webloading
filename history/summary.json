@@ -4,7 +4,7 @@
     "url": "http://ice.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ice.serv00.net.ico",
     "slug": "s1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 540,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-25": 0
+    }
   },
   {
     "name": "s2",
@@ -23,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/melodyover.serv00.net.ico",
     "slug": "s2",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "98.25%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
     "time": 608,
     "timeDay": 377,
-    "timeWeek": 681,
+    "timeWeek": 677,
     "timeMonth": 608,
     "timeYear": 608,
     "dailyMinutesDown": {
