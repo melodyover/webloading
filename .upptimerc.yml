@@ -1,9 +1,9 @@
 owner: melodyover # GitHub username
 repo: webloading # GitHub repository name
 sites: # List of endpoints to track
-  - name: s1
+  - name: s3
     url: http://ice.serv00.net/
-  - name: s2
+  - name: s14
     url: http://melodyover.serv00.net/
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
