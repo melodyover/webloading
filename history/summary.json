@@ -4,19 +4,19 @@
     "url": "http://ice.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ice.serv00.net.ico",
     "slug": "s3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 522,
-    "timeWeek": 568,
-    "timeMonth": 850,
-    "timeYear": 850,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 846,
+    "timeDay": 766,
+    "timeWeek": 606,
+    "timeMonth": 846,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 436,
-    "timeWeek": 579,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "time": 591,
+    "timeDay": 739,
+    "timeWeek": 621,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   }
 ]
