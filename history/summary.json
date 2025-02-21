@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ice.serv00.net.ico",
     "slug": "s3",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.86%",
-    "time": 759,
-    "timeDay": 547,
-    "timeWeek": 548,
-    "timeMonth": 769,
-    "timeYear": 759,
+    "uptimeYear": "99.87%",
+    "time": 752,
+    "timeDay": 498,
+    "timeWeek": 535,
+    "timeMonth": 772,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2025-02-13": 67
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 844,
-    "timeWeek": 545,
-    "timeMonth": 590,
-    "timeYear": 580,
+    "time": 578,
+    "timeDay": 487,
+    "timeWeek": 539,
+    "timeMonth": 588,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   }
 ]
