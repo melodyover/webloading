@@ -24,7 +24,7 @@
     "url": "http://melodyover.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/melodyover.serv00.net.ico",
     "slug": "s14",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 481,
     "timeMonth": 559,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   }
 ]
