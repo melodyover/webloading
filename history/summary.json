@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.89%",
-    "time": 717,
-    "timeDay": 430,
+    "time": 713,
+    "timeDay": 499,
     "timeWeek": 499,
-    "timeMonth": 752,
-    "timeYear": 717,
+    "timeMonth": 593,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2025-02-13": 67
     }
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/melodyover.serv00.net.ico",
     "slug": "s14",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.91%",
-    "time": 2224,
-    "timeDay": 19234,
-    "timeWeek": 7979,
-    "timeMonth": 2757,
-    "timeYear": 2224,
+    "uptime": "99.92%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.92%",
+    "time": 2194,
+    "timeDay": 19314,
+    "timeWeek": 8013,
+    "timeMonth": 2761,
+    "timeYear": 2194,
     "dailyMinutesDown": {
-      "2025-02-27": 55
+      "2025-02-27": 49
     }
   }
 ]
